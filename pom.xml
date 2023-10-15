@@ -16,8 +16,9 @@
 	<properties>
 		<java.version>17</java.version>
 	</properties>
-
-      <dependency>
+	<dependencies>
+		
+	  <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-devtools</artifactId>
       <optional>true</optional>
